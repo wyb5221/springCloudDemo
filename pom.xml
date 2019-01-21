@@ -20,7 +20,7 @@
 	
 	
 	<modules>
-		<module></module>
+		<module>springBootDemo</module>
 	</modules>
 	
 	<dependencyManagement>
