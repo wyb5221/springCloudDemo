@@ -21,6 +21,8 @@
 	
 	<modules>
 		<module>springBootDemo</module>
+		<module>spring-client-consumer-demo</module>
+		<module>spring-eureka-server-demo</module>
 	</modules>
 	
 	<dependencyManagement>
