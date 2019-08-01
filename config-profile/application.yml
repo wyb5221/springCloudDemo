@@ -1,8 +1,4 @@
 spring:
-  profiles:
-    active: dev
----
-spring:
   profiles: dev
   application:
     name: config-client-dev
@@ -19,6 +15,6 @@ server:
 spring:
   profiles: prod
   application:
-    name: config-client-uat
+    name: config-client-prod
 server:
   port: 8088
